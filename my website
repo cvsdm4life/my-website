@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carlos Vieira - Cocktail Menu Developer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('https://example.com/tiki-background.jpg'); /* Replace with actual tiki background URL */
+            background-size: cover;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 10px;
+        }
+        h1, h2, h3 {
+            color: #ffcc00; /* Bright yellow */
+        }
+        p {
+            line-height: 1.6;
+        }
+        .contact {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to My Page!</h1>
+        <h2>Carlos Vieira - Cocktail Menu Developer</h2>
+        <p>
+            Hello! I'm Carlos Vieira. I have been working in the bar industry in Manchester for 12 years and have decided to start my own menu creation and development company. My goal is to help venues improve the quality of their cocktails and service.
+        </p>
+        <h3>About Me</h3>
+        <p>
+            I was born and raised in Portugal and moved to the UK 12 years ago to enjoy the finest of British weather! I speak fluent Portuguese, Spanish, and English.
+        </p>
+        <h3>Services</h3>
+        <p>
+            I provide excellent cocktail specifications for venues, ensuring good profitability margins. Each cocktail comes with a detailed description and a range of flavors for customers to enjoy. My aim is to enhance your menu and bring a unique, flavorful experience to your patrons.
+        </p>
+        <h3>Contact</h3>
+        <p class="contact">
+            If you would like to get in touch, please contact me at: <a href="mailto:cvsdm4life@gmail.com">cvsdm4life@gmail.com</a> or call me at: 07482 972363. Feel free to contact me for quotes and rates.
+        </p>
+        <p>
+            Thank you for visiting my page! I look forward to working with you.
+        </p>
+    </div>
+</body>
+</html>
